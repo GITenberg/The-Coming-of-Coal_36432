@@ -1,0 +1,35 @@
+_repo: The-Coming-of-Coal_36432
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bruère, Robert W. (Robert Walter)
+    aliases:
+    - Bruere, Robert W. (Robert Walter)
+    - Bruère, Robert Walter
+    birthdate: 1876
+    deathdate: 1964
+    gutenberg_agent_id: '38265'
+    url: http://www.gutenberg.org/2009/agents/38265
+description: ''
+gutenberg_issued: '2011-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36432'
+  lccn: '22011773'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HD'
+- !lcsh 'Coal trade -- United States'
+- !lcsh 'Coal'
+tableOfContents: Challenge of power -- Coming of coal -- Drama of civilization --
+  Coal in America -- Awakening of the miners -- Struggle for organization -- Rise
+  of democracy -- Rivals of coal -- The technical revolution -- The strait gate --
+  Bibliography.
+title: The Coming of Coal
+url: http://www.gutenberg.org/ebooks/36432
